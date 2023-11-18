@@ -9,7 +9,14 @@ public class IncreDecre {
 		System.out.println("After === " + a);
 		System.out.println("Post Increment === " + (a++));
 		System.out.println("After === " + a);
-
+		
+		System.out.println("========== ");
+		
+		System.out.println("Current === " + a);
+		System.out.println("Pre Decrement === " + (--a));
+		System.out.println("After === " + a);
+		System.out.println("Post Decrement === " + (a--));
+		System.out.println("After === " + a);
 	}
 
 }
